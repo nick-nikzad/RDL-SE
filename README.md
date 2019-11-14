@@ -5,5 +5,5 @@ computational requirement. Furthermore, we demonstrate that RDL-Nets outperform 
 ## Contact
 Please send email to m.nikzaddehaji@griffithuni.edu.au
 
-## Citation
+## References
 Mohammad Nikzad, Aaron Nicolson,Yongsheng Gao, Jun Zhou, Kuldip K. Paliwal, Fanhua Shang. Deep Residual-Dense Lattice Network for Speech Enhancement. To appear in Proceedings of the Thirty-Fourth AAAI Conference on Artificial Intelligence (AAAI), 2020.
